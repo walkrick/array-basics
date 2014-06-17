@@ -14,7 +14,9 @@ After this exercise, a student will be able to:
 ## Resources
 
 * Online Materials
-    * [Array Docs](http://www.ruby-doc.org/core-2.1.2/Array.html)
+  * [Treehouse blog](http://blog.teamtreehouse.com/ruby-arrays)
+  * [Array Docs](http://www.ruby-doc.org/core-2.1.2/Array.html)
+    
 
 ## Exercises
 
