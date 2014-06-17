@@ -20,4 +20,4 @@ After this exercise, a student will be able to:
 
 ## Exercises
 
-Import the tracker stories and work through them. *Only submit your repository when you've completed the exercise!!*
+Import the tracker stories and work through them. **Only submit your repository when you've completed the exercise!!**
